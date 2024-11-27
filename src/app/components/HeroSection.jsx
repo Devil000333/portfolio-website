@@ -15,7 +15,7 @@ const HeroSection = () => {
                     className="col-span-8 place-self-center text-center sm:text-left justify-self-start">
                     <h1 className="text-white mb-4 text 4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold">
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                            Hello, I'm {""} 
+                            {"Hello, I'm"} {""} 
                         </span> 
                         <br></br> 
                         <TypeAnimation
@@ -35,7 +35,7 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">
-                        {"Hey this is dhanraj and I'm improvising this page."}
+                        {"Hey this is dhanraj and I am improvising this page."}
                         {"Looking forward for your review."}
                     </p> 
                     <div>
