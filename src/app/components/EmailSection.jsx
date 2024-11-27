@@ -42,9 +42,9 @@ const EmailSection = () => {
             <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
             <p className="text-[#ABD7BE] mb-4 max-w-md">
                 {" "}
-                I'm passionate about exploring advanced research in AI and pushing the boundaries of innovation. 
-                If you'd like to discuss ideas or potential collaborations, feel free to reach out. 
-                I'm always open to meaningful conversations.
+                {"I'm passionate about exploring advanced research in AI and pushing the boundaries of innovation."}
+                    {"If you'd like to discuss ideas or potential collaborations, feel free to reach out."}
+                        {"I'm always open to meaningful conversations."}
             </p>
             <div className="social flex flex-row gap-2">
                 <Link href="https://scholar.google.com/citations?user=8SRrmhUAAAAJ&hl=en">
@@ -113,7 +113,7 @@ const EmailSection = () => {
                         //If the email was submitted successfully, show a success message. 
                         emailSubmitted && (
                             <p className="text-green-500 text-sm mt-2">
-                                Email sent successfully!
+                                {"Email sent successfully!"}
                             </p>
                         )
                     }
