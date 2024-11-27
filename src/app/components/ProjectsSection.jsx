@@ -11,7 +11,7 @@ const projectsData = [
     description: "Developed plagiarism checker using Google Search Query, Beautiful Soup and Levenshtein's Distance Algorithm while achieving 85% accuracy for upto 10k words. Presented and Published research paper in ICAISC 2023 Conference, Jeddah, Saudi Arabia.",
     image: "/images/projects/TANX.png",
     tag: ["All", "Web"], 
-    gitUrl: "/", 
+    gitUrl: "https://ieeexplore.ieee.org/document/10085404", 
     previewUrl: "/",
   },
   {
