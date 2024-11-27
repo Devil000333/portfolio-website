@@ -35,8 +35,8 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">
-                        Hey this is dhanraj and I'm improvising this page. 
-                       Looking forward for your review.
+                        {"Hey this is dhanraj and I'm improvising this page."}
+                        {"Looking forward for your review."}
                     </p> 
                     <div>
                         <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
