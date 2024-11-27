@@ -60,12 +60,12 @@ const handleTabChange = (id) => {
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2> 
                     <p className="text-base lg:text-lg">
-                    This is Dhanraj Nandurkar, AI Engineer, Researcher, Author & Reviewer. 
+                        {"This is Dhanraj Nandurkar, AI Engineer, Researcher, Author & Reviewer."}
 <br></br> <br></br>
-In my free time, I like to write poetry, cook for my loved one's & spend time in nature. 
+                        {"In my free time, I like to write poetry, cook for my loved one's & spend time in nature."} 
 <br></br> <br></br>
-I'm highly enthusiastic, quick learner & open for challenges person , who likes to solve real-time problems with creative insights. 
-Thank you for giving me your time.
+                        {"I'm highly enthusiastic, quick learner & open for challenges person , who likes to solve real-time problems with creative insights."} 
+                        {"Thank you for giving me your time."}
                     </p>
                     <div className="flex flex-row justify-start mt-8">
                         <TabButton 
