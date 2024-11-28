@@ -39,7 +39,7 @@ const HeroSection = () => {
                         {"Hey there! Welcome to my space. ✨"} 
                         <br></br>
                         {"This web page is part of my 24 hours Scratch - to - Web Devloper Portfolio challenge."}
-                        {"If you got any suggestion, I'm looking forward for it. 😄"}
+                        {"If you got any suggestion, I'm looking forward for it. 😄"} 
                     </p> 
                     <div>
                         <Link 
