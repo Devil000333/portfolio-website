@@ -35,8 +35,9 @@ const HeroSection = () => {
                         />
                     </h1>
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">
-                        {"Hey there! Welcome to my space. ✨"}
-                        {"This web page is part of my 24 hours Scratch - to - Portfolio challenge."}
+                        {"Hey there! Welcome to my space. ✨"} 
+                        <br></br>
+                        {"This web page is part of my 24 hours Scratch - to - Web Devloper Portfolio challenge."}
                         {"If you got any suggestion, I'm looking forward for it. 😄"}
                     </p> 
                     <div>
