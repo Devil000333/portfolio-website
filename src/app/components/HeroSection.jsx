@@ -38,7 +38,8 @@ const HeroSection = () => {
                     <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lf:text-xl">
                         {"Hey there! Welcome to my space. ✨"} 
                         <br></br>
-                        {"This web page is part of my 24 hours Scratch - to - Web Developer Portfolio challenge."}
+                        {"This web page is part of my 24 hours Scratch - to - Web Developer Portfolio challenge."} 
+                        <br></br>
                         {"If you got any suggestion, I'm looking forward for it. 😄"} 
                     </p> 
                     <div>
